@@ -1,4 +1,4 @@
-#Intro
+##Intro
 
 Hello everyone! My name is Travis Pearson. I started coding a couple 
 of years ago and I love it! I am interested in collaborating on many
