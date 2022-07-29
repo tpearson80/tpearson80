@@ -2,7 +2,7 @@
 
 Hello everyone! My name is Travis Pearson. I started coding a couple 
 of years ago and I love it! I am interested in collaborating on many
-projects soon and can't until I can do this for a living one day.
+projects soon and can't wait until I can do this for a living one day.
 
 ##Contact Me
 
